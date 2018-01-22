@@ -1,0 +1,1448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e69dc2b4-91fc-43be-9913-65af79bb9dfd" name="Default" comment="" />
+    <ignored path="bentusi-core.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bentusi-core" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1363">
+              <caret line="145" column="24" lean-forward="true" selection-start-line="145" selection-start-column="24" selection-end-line="145" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CharsetDetector.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wolves/wolf/base/algorithm/CharsetDetector.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/\*[0-9: ]+\*/</find>
+      <find>commons-beanutils</find>
+      <find>/*    */</find>
+      <find>/* 0- */</find>
+      <find>memorz</find>
+      <find>com.wolves.daf.base</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>wolves</replace>
+      <replace>com.wolves.wolf.base</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>E:\2017daf\daf0.0.2\daf-base</dir>
+      <dir>E:\wolves\wolves-base</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="E:/" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/chinese/NumberText.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/chinese/UnicodeEnDecoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/conf/Constants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/SimplePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/http/LoadHttpResource.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/lang/ObjectHolder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/net/Firewall.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/transfer/XmlNode2String.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/xml/XMLUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/Big5Statistics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/EUCJPStatistics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/EUCKRStatistics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/EUCTWStatistics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/HtmlCharsetDetector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsBIG5Verifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsCP1252Verifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsDetector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsEUCJPVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsEUCKRVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsEUCSampler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsEUCStatistics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsEUCTWVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsGB2312Verifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsGB18030Verifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsHZVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsICharsetDetectionObserver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsICharsetDetector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsISO2022CNVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsISO2022JPVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsISO2022KRVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsPSMDetector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsSJISVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsUCS2BEVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsUCS2LEVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsUTF8Verifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/algorithm/CharsetDetector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/chinese/LRULinkedHashMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/collection/LruCache.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/transfer/Html2Xml.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/chardet/nsUCS2BEVerifier.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/GB2312Statistics.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/conf/JAXPConfigurator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/conf/XMLConfigurator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/DataBaseStore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/DataBaseStoreManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/PagerQuery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/memorz/daf/base/conf/ConfigManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wolves/daf/base/algorithm/CharsetDetector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wolves/wolf/base/algorithm/CharsetDetector.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/jigudevelop/maven/maven3" />
+        <option name="userSettingsFile" value="D:\jigudevelop\maven\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wolves-base" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="wolves-base" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="1370" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wolves-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://F:/kukar/serverprojects/bentusi-core/src/main/java/com/kuark/bentusi/core/task/BaQueueManageTaskThread.java" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.3402299" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.mozilla.intl.chardet" />
+      <recent name="com.memorz.daf.base.collection" />
+      <recent name="com.datou.daf.base.collection" />
+      <recent name="kuark.test.database.util" />
+      <recent name="kuark.test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\newCode\2017daf\2017daf\daf0.0.2\daf-base\src\main\resources" />
+      <recent name="D:\newCode\2017daf\2017daf\daf0.0.2\daf-base\src\main\java\org\mozilla\intl\chardet" />
+      <recent name="D:\newCode\2017daf\2017daf\daf0.0.2\daf-base\src\main\java" />
+      <recent name="E:\2017daf\daf0.0.2\daf-base\src\main\java\com\memorz\daf\base\collection" />
+      <recent name="E:\workspace\datou项目\daf-base\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ConfigManager">
+    <configuration name="BatchInvest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kuark.pressure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.kuark.pressure.BatchInvest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bentusi-core" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="ConfigManager" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.memorz.daf.base.conf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.memorz.daf.base.conf.ConfigManager" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="daf-base" />
+      <envs />
+    </configuration>
+    <configuration name="LoadHttpResource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.memorz.daf.base.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.memorz.daf.base.http.LoadHttpResource" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="daf-base" />
+      <envs />
+    </configuration>
+    <configuration name="TestGetAaHistoryProfit" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kuark.bentusi.usr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.kuark.bentusi.usr.TestGetAaHistoryProfit" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bentusi-core" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="TestNewAccountTaskAction" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kuark.bentusi.core.test.account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.kuark.bentusi.core.test.account.TestNewAccountTaskAction" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bentusi-core" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="TestNewAssetAndPeriod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.kuark.bentusi.sys.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.kuark.bentusi.sys.TestNewAssetAndPeriod" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="bentusi-core" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="YunEngineer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="kuark.test.database.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="kuark.test.database.util.YunEngineer" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test-core" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="false" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/test-core-0.0.1-SNAPSHOT.jar" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="daf-base" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BatchConfigurationType" factoryName="Batch">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Application.TestNewAccountTaskAction" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestGetAaHistoryProfit" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ConfigManager" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestNewAssetAndPeriod" />
+      <item index="4" class="java.lang.String" itemvalue="Application.BatchInvest" />
+      <item index="5" class="java.lang.String" itemvalue="Application.YunEngineer" />
+      <item index="6" class="java.lang.String" itemvalue="Application.LoadHttpResource" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.LoadHttpResource" />
+        <item index="1" class="java.lang.String" itemvalue="Application.YunEngineer" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestNewAssetAndPeriod" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BatchInvest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e69dc2b4-91fc-43be-9913-65af79bb9dfd" name="Default" comment="" />
+      <created>1430288286740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1430288286740</updated>
+      <workItem from="1430288289215" duration="23466000" />
+      <workItem from="1430318853123" duration="3403000" />
+      <workItem from="1430358816200" duration="29388000" />
+      <workItem from="1430440569798" duration="18235000" />
+      <workItem from="1430528838137" duration="9513000" />
+      <workItem from="1430703293341" duration="33707000" />
+      <workItem from="1430745043782" duration="3483000" />
+      <workItem from="1430790353344" duration="30550000" />
+      <workItem from="1430831246260" duration="315000" />
+      <workItem from="1430878409509" duration="30751000" />
+      <workItem from="1430964323310" duration="34106000" />
+      <workItem from="1431049801083" duration="33639000" />
+      <workItem from="1431093364284" duration="893000" />
+      <workItem from="1431151289560" duration="1233000" />
+      <workItem from="1431152536126" duration="11814000" />
+      <workItem from="1431183498123" duration="17269000" />
+      <workItem from="1431310192716" duration="28369000" />
+      <workItem from="1431417095723" duration="5957000" />
+      <workItem from="1431477853476" duration="34474000" />
+      <workItem from="1431563943687" duration="35036000" />
+      <workItem from="1431649414331" duration="922000" />
+      <workItem from="1431650654292" duration="33872000" />
+      <workItem from="1431697950689" duration="2834000" />
+      <workItem from="1431738634131" duration="246000" />
+      <workItem from="1431739342999" duration="11071000" />
+      <workItem from="1431824589343" duration="34828000" />
+      <workItem from="1431910152364" duration="10972000" />
+      <workItem from="1431927792559" duration="11043000" />
+      <workItem from="1431939445401" duration="15683000" />
+      <workItem from="1431999441605" duration="42039000" />
+      <workItem from="1432084422032" duration="40617000" />
+      <workItem from="1432171220957" duration="38994000" />
+      <workItem from="1432257569113" duration="77607000" />
+      <workItem from="1432433488429" duration="44015000" />
+      <workItem from="1432563622197" duration="1083000" />
+      <workItem from="1432603236456" duration="1651000" />
+      <workItem from="1432605049937" duration="16626000" />
+      <workItem from="1432690566694" duration="86160000" />
+      <workItem from="1432954189254" duration="1486000" />
+      <workItem from="1432956778841" duration="17404000" />
+      <workItem from="1433037520318" duration="649000" />
+      <workItem from="1433038568271" duration="21265000" />
+      <workItem from="1433124484462" duration="22974000" />
+      <workItem from="1433211021796" duration="53864000" />
+      <workItem from="1433383334963" duration="36166000" />
+      <workItem from="1433467256906" duration="20623000" />
+      <workItem from="1433729100404" duration="27408000" />
+      <workItem from="1433816876525" duration="10698000" />
+      <workItem from="1433902072098" duration="23824000" />
+      <workItem from="1433987437103" duration="29171000" />
+      <workItem from="1434073211440" duration="30355000" />
+      <workItem from="1434185438247" duration="599000" />
+      <workItem from="1434260323821" duration="15603000" />
+      <workItem from="1434333685768" duration="27701000" />
+      <workItem from="1434420098870" duration="25596000" />
+      <workItem from="1434505508556" duration="8639000" />
+      <workItem from="1434521759727" duration="15995000" />
+      <workItem from="1434546801051" duration="5628000" />
+      <workItem from="1434577220715" duration="2604000" />
+      <workItem from="1434592096753" duration="25713000" />
+      <workItem from="1434641529234" duration="5159000" />
+      <workItem from="1434681510335" duration="15880000" />
+      <workItem from="1435025249441" duration="18316000" />
+      <workItem from="1435051856873" duration="5395000" />
+      <workItem from="1435110958251" duration="19615000" />
+      <workItem from="1435197715139" duration="24802000" />
+      <workItem from="1435284144172" duration="20558000" />
+      <workItem from="1435544529514" duration="16546000" />
+      <workItem from="1435591951685" duration="1146000" />
+      <workItem from="1435630914979" duration="21873000" />
+      <workItem from="1435659622402" duration="3126000" />
+      <workItem from="1435678296722" duration="713000" />
+      <workItem from="1435716489406" duration="27015000" />
+      <workItem from="1435759182569" duration="5836000" />
+      <workItem from="1435768138287" duration="186000" />
+      <workItem from="1435790472361" duration="3116000" />
+      <workItem from="1435801656651" duration="24158000" />
+      <workItem from="1435888303206" duration="25196000" />
+      <workItem from="1435930508828" duration="36973000" />
+      <workItem from="1436147565994" duration="16452000" />
+      <workItem from="1436234142308" duration="20584000" />
+      <workItem from="1436281817865" duration="1575000" />
+      <workItem from="1436320461427" duration="19621000" />
+      <workItem from="1436353925713" duration="1647000" />
+      <workItem from="1436369528517" duration="1414000" />
+      <workItem from="1436406932252" duration="9265000" />
+      <workItem from="1436435347501" duration="5308000" />
+      <workItem from="1436492467598" duration="15231000" />
+      <workItem from="1436705057239" duration="561000" />
+      <workItem from="1436752178786" duration="2901000" />
+      <workItem from="1436866695883" duration="1063000" />
+      <workItem from="1437024939633" duration="770000" />
+      <workItem from="1437973144819" duration="106000" />
+      <workItem from="1438757579408" duration="1404000" />
+      <workItem from="1438779086905" duration="862000" />
+      <workItem from="1441072337555" duration="10000" />
+      <workItem from="1453950359478" duration="10404000" />
+      <workItem from="1453981297884" duration="58000" />
+      <workItem from="1453982581058" duration="45000" />
+      <workItem from="1454031460079" duration="16209000" />
+      <workItem from="1454290784332" duration="13337000" />
+      <workItem from="1454376913089" duration="5365000" />
+      <workItem from="1454496150971" duration="365000" />
+      <workItem from="1454499633159" duration="1138000" />
+      <workItem from="1454503137710" duration="682000" />
+      <workItem from="1454551023016" duration="1460000" />
+      <workItem from="1454633010707" duration="338000" />
+      <workItem from="1455068016604" duration="741000" />
+      <workItem from="1455497918946" duration="11215000" />
+      <workItem from="1455586488576" duration="7491000" />
+      <workItem from="1455672887758" duration="18919000" />
+      <workItem from="1455760411722" duration="23262000" />
+      <workItem from="1455803205280" duration="5254000" />
+      <workItem from="1455845604593" duration="22215000" />
+      <workItem from="1455875304878" duration="72000" />
+      <workItem from="1455893593130" duration="2164000" />
+      <workItem from="1456107299515" duration="1170000" />
+      <workItem from="1456143164902" duration="1216000" />
+      <workItem from="1456191385286" duration="14902000" />
+      <workItem from="1456227931288" duration="2673000" />
+      <workItem from="1456278739745" duration="27218000" />
+      <workItem from="1456364574913" duration="21941000" />
+      <workItem from="1456451143603" duration="20149000" />
+      <workItem from="1456488688167" duration="13299000" />
+      <workItem from="1456547133886" duration="571000" />
+      <workItem from="1456550508393" duration="1014000" />
+      <workItem from="1456620014634" duration="1360000" />
+      <workItem from="1456651081514" duration="1599000" />
+      <workItem from="1456661219345" duration="141000" />
+      <workItem from="1456710142717" duration="2352000" />
+      <workItem from="1456714346956" duration="16415000" />
+      <workItem from="1456793654648" duration="739000" />
+      <workItem from="1456796105878" duration="9475000" />
+      <workItem from="1456882996317" duration="2930000" />
+      <workItem from="1456970685232" duration="14270000" />
+      <workItem from="1457007073562" duration="647000" />
+      <workItem from="1457055580836" duration="21343000" />
+      <workItem from="1457088569188" duration="541000" />
+      <workItem from="1457230758346" duration="343000" />
+      <workItem from="1457314524251" duration="24334000" />
+      <workItem from="1457352624718" duration="2083000" />
+      <workItem from="1457400966536" duration="13957000" />
+      <workItem from="1457488104532" duration="1481000" />
+      <workItem from="1457494393335" duration="12600000" />
+      <workItem from="1457574940533" duration="10338000" />
+      <workItem from="1457660270581" duration="21064000" />
+      <workItem from="1457828139809" duration="532000" />
+      <workItem from="1457919315139" duration="15913000" />
+      <workItem from="1458006117086" duration="27105000" />
+      <workItem from="1458092491566" duration="1897000" />
+      <workItem from="1458098600517" duration="2026000" />
+      <workItem from="1458113562050" duration="7478000" />
+      <workItem from="1458178365172" duration="12059000" />
+      <workItem from="1458217009581" duration="590000" />
+      <workItem from="1458265915818" duration="3257000" />
+      <workItem from="1458453374650" duration="2923000" />
+      <workItem from="1458524355894" duration="24974000" />
+      <workItem from="1458565565577" duration="2012000" />
+      <workItem from="1458598753517" duration="5816000" />
+      <workItem from="1458609386929" duration="24160000" />
+      <workItem from="1458650180182" duration="3756000" />
+      <workItem from="1458696717928" duration="3698000" />
+      <workItem from="1458765036163" duration="1187000" />
+      <workItem from="1458783771756" duration="17462000" />
+      <workItem from="1458825606620" duration="2421000" />
+      <workItem from="1458841954587" duration="21000" />
+      <workItem from="1458870360166" duration="1073000" />
+      <workItem from="1459227467945" duration="9868000" />
+      <workItem from="1459239440165" duration="1981000" />
+      <workItem from="1459249364058" duration="2462000" />
+      <workItem from="1459326086708" duration="2995000" />
+      <workItem from="1459388958243" duration="23895000" />
+      <workItem from="1459474753734" duration="1805000" />
+      <workItem from="1459817663219" duration="19176000" />
+      <workItem from="1459909917709" duration="4276000" />
+      <workItem from="1459993993256" duration="1196000" />
+      <workItem from="1460014620068" duration="1117000" />
+      <workItem from="1460019164415" duration="1557000" />
+      <workItem from="1460038202706" duration="763000" />
+      <workItem from="1460039157497" duration="53000" />
+      <workItem from="1460103118669" duration="64000" />
+      <workItem from="1460338683979" duration="17000" />
+      <workItem from="1460342597717" duration="19424000" />
+      <workItem from="1460425477417" duration="10042000" />
+      <workItem from="1460512098821" duration="19390000" />
+      <workItem from="1460540404259" duration="1247000" />
+      <workItem from="1460598253554" duration="6204000" />
+      <workItem from="1460702026644" duration="1559000" />
+      <workItem from="1465350324639" duration="31000" />
+      <workItem from="1465350443896" duration="107000" />
+      <workItem from="1465350583681" duration="30605000" />
+      <workItem from="1466559592784" duration="2601000" />
+      <workItem from="1466680290551" duration="558000" />
+      <workItem from="1466681864068" duration="202000" />
+      <workItem from="1466688854028" duration="217000" />
+      <workItem from="1466694624751" duration="85000" />
+      <workItem from="1466725525582" duration="1867000" />
+      <workItem from="1466776359647" duration="619000" />
+      <workItem from="1467092766158" duration="99000" />
+      <workItem from="1467093602762" duration="12000" />
+      <workItem from="1467252338157" duration="865000" />
+      <workItem from="1467875517325" duration="8772000" />
+      <workItem from="1467978742009" duration="7000" />
+      <workItem from="1467978770079" duration="90000" />
+      <workItem from="1467978892676" duration="35000" />
+      <workItem from="1467979188935" duration="185000" />
+      <workItem from="1467979401406" duration="33000" />
+      <workItem from="1468557009986" duration="577000" />
+      <workItem from="1472130194087" duration="1694000" />
+      <workItem from="1473058894164" duration="623000" />
+      <workItem from="1474069729264" duration="600000" />
+      <workItem from="1474182370350" duration="24000" />
+      <workItem from="1476252306104" duration="20000" />
+      <workItem from="1476574585887" duration="2401000" />
+      <workItem from="1489552121225" duration="2803000" />
+      <workItem from="1489575726931" duration="387000" />
+      <workItem from="1494565585094" duration="17000" />
+      <workItem from="1494571337894" duration="484000" />
+      <workItem from="1495242076946" duration="3184000" />
+      <workItem from="1495604400193" duration="3648000" />
+      <workItem from="1495960797281" duration="3175000" />
+      <workItem from="1495971084486" duration="314000" />
+      <workItem from="1510455634661" duration="10877000" />
+      <workItem from="1510475188753" duration="1826000" />
+      <workItem from="1510478945815" duration="596000" />
+      <workItem from="1512881129409" duration="4000" />
+      <workItem from="1516086909410" duration="420000" />
+      <workItem from="1516090763542" duration="1280000" />
+      <workItem from="1516587703417" duration="32000" />
+      <workItem from="1516587969802" duration="416000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2428954000" />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.35648856" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17270789" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55074877" sideWeight="0.6435115" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16577825" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25326797" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30937973" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37437603" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.03327787" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com.kuark.bentusi.core.test/asset/BentusiClientHandler.java</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="57" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsICharsetDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsISO2022CNVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsISO2022KRVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsSJISVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsUTF8Verifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="102" column="0" lean-forward="false" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/algorithm/Untar.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/algorithm/CharsetDetector.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/algorithm/Unzip.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/conf/Constants.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/chinese/LruCache.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/chinese/LRULinkedHashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/collection/LruCache.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/http/LoadHttpResource.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/lang/ObjectHolder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/net/Firewall.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/transfer/Html2Xml.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/transfer/XmlNode2String.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="36" column="22" lean-forward="false" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/chardet/nsHZVerifier.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chardet/nsEUCStatistics.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chardet/nsEUCKRVerifier.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chardet/EUCJPStatistics.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chardet/nsISO2022JPVerifier.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chardet/nsUTF8Verifier.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chardet/nsDetector.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chardet/nsPSMDetector.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chardet/nsEUCJPVerifier.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/chardet/nsUCS2BEVerifier.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsPSMDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="261" column="0" lean-forward="false" selection-start-line="261" selection-start-column="0" selection-end-line="261" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsEUCStatistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsICharsetDetectionObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsISO2022JPVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsUCS2BEVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsEUCJPVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsUCS2LEVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/nsHZVerifier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/Big5Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mozilla/intl/chardet/GB2312Statistics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/node_admin.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/conf/JAXPConfigurator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/conf/XMLConfigurator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/DataBaseStore.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/PagerQuery.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/SimplePage.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/db/DataBaseStoreManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/xml/XMLUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/memorz/daf/base/conf/ConfigManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wolves/daf/base/algorithm/CharsetDetector.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wolves/daf/base/net/Firewall.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wolves/wolf/base/algorithm/CharsetDetector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1363">
+          <caret line="145" column="24" lean-forward="true" selection-start-line="145" selection-start-column="24" selection-end-line="145" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>protobuf-java-2.4.1-lite</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>wolves-base</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-beanutils-1.7.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3402299" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
